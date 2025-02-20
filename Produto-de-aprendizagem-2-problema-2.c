@@ -3,6 +3,7 @@
 #include <time.h>
 #include <ctype.h>
 
+  //Problema 2: Manipulação de Matrizes
   //EDUARDO OSMARI BORTOLOTTO
 
 void informar_elementos(int *matriz, int tamanho) {
