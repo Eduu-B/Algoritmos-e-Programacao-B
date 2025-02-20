@@ -1,4 +1,5 @@
-#include <stdio.h>                          //EDUARDO OSMARI BORTOLOTTO
+#include <stdio.h>                          //Problema I: Interceptando Informações
+                                            //EDUARDO OSMARI BORTOLOTTO
 
 void SaidaBits(int tamanho, int *vetor) {
     for (int i = 0; i < tamanho; i++) {
