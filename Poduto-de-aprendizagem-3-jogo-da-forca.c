@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
+#include <string.h>                                                //Desenvolva um programa, na linguagem C, para implementar o Jogo da Forca
 #include <ctype.h>
 #include <time.h>                                                 //Nome: Eduardo Osmari Bortolotto
                                                                   
