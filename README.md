@@ -1,2 +1,2 @@
-# Algoritmos-e-Programa-o-B
+# Algoritmos-e-Programacao-B
 Produtos de aprendizagem da disciplina
